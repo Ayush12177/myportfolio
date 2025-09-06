@@ -21,7 +21,7 @@ const Projects = () => {
         <ProjectCard
           title="Netflix Clone"
           main="Built a static Netflix-inspired website using HTML and CSS, featuring a responsive layout, hero banner, and categorized content sections."
-          demoLink="https://netflix-clone-three-phi-76.vercel.app"
+          demoLink="https://netflix-clone-rvk.vercel.app"
           codeLink="https://github.com/Ayush12177/Netflix-Clone"
         />
       </div>
