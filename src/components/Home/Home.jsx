@@ -18,7 +18,7 @@ const Home = () => {
             Hire Me
           </button>
          
-          <a href="#" download>
+          <a href="/Ayush_Resume.pdf" download>
             <button className="mt-5 md:mt-10 text-white py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
               Resume
             </button>
